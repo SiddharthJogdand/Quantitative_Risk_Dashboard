@@ -1,0 +1,4 @@
+instrument_id,quantity,current_price,instrument_type
+AAPL,50,180,equity
+MSFT,40,420,equity
+GOOGL,30,140,equity
