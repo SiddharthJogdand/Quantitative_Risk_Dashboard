@@ -1,6 +1,11 @@
 # 📊 Quantitative Risk Dashboard
 A modular quantitative risk monitoring system built to replicate institutional portfolio risk analytics using Python and Streamlit.
 
+## Live Preview
+
+To run locally:
+streamlit run src/dashboard/app.py
+
 ## Overview
 
 The **Quantitative Risk Dashboard** is a modular, institutional-style portfolio risk monitoring system built using Python, Streamlit, and Plotly. It is designed to simulate the core analytical framework used by risk management desks to monitor market risk exposure in real time.
