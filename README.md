@@ -1,4 +1,5 @@
 # 📊 Quantitative Risk Dashboard
+A modular quantitative risk monitoring system built to replicate institutional portfolio risk analytics using Python and Streamlit.
 
 ## Overview
 
